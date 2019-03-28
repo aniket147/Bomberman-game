@@ -44,7 +44,4 @@ Python 3.5
 
 
 #How to run 
-
-Extract Assignment1_20161219.zip
-Open the folder
 run Python3 game.py   
