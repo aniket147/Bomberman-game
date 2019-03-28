@@ -1,2 +1,2 @@
 # Bomberman-game
-The simple classic bomberman game written in python3.5
+The simple classic bomberman game written in python3
